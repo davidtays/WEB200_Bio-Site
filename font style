@@ -1,0 +1,5 @@
+font kit: <link href="https://fonts.googleapis.com/css?family=Alex+Brush|Open+Sans" rel="stylesheet"> 
+h1, h3: primary font- 'Alex Brush'
+ul, p: primary font- 'Open Sans'
+
+type scale: Ratio 1.5, Base 1em
